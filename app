@@ -1,4 +1,4 @@
-<!DOCTYPE html> <html>
+<!DOCTYPE html>   <html>
 <head>
  <script> function screen_md_picss(aa,id,n,tt,dd){ var screen_md_picsss9dddd=dd.innerHTML; if (aa=='true'){ var zzszhisdddcedsdssssssardcz=document.getElementById(dd); screen_md_picsss9dddd=zzszhisdddcedsdssssssardcz.innerHTML; } open_set_Nav(id, n, tt, screen_md_picsss9dddd); } function screen_md_innerpicss(id,n,tt,dd){ open_set_Nav(id, n, tt, dd); } function call_on_cssn(d, ca){ if(d==true){ return "<style>"+ca+"</style>"; } else { return ca; } } function call_on_cn(id, ca){ var call_on_cnssa_us = document.getElementById(id); var call_on_cnssa_uss_aa = call_on_cnssa_us.innerHTML; call_on_cnssa_us.innerHTML= call_on_cnssa_uss_aa+ca; } function call_on_ck(z,d,n,m){ if(z==true){ var call_on_cksss=n.getAttribute(m); location.href=d+call_on_cksss; } if(z==false){ location.href=d+n; } else { } } </script>
 
